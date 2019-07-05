@@ -11,4 +11,6 @@
 # Quality
 --format best
 # Old limit
---dateafter now-1month
+--dateafter 20190705
+# No overwrites
+--no-overwrites
