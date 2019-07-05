@@ -14,3 +14,5 @@
 --dateafter 20190705
 # No overwrites
 --no-overwrites
+# 5 video limit by channel
+--playlist-end 5
