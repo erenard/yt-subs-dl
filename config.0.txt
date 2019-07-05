@@ -11,7 +11,7 @@
 # Quality
 --format best
 # Old limit
---dateafter 20190705
+--dateafter now-1month
 # No overwrites
 --no-overwrites
 # 5 video limit by channel
