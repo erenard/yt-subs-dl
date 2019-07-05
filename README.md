@@ -1,2 +1,2 @@
 # yt-subs-dl
-youtube subscriptions download
+youtube subscriptions download script
