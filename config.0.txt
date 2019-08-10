@@ -3,7 +3,7 @@
 # Subscriptions
 --batch-file ./subs.0.txt
 # Output format
---output ~/storage/movies/%(title)s.%(ext)s
+--output ~/storage/movies/%(uploader)s.%(title)s.%(ext)s
 # Clean filenames
 --restrict-filenames
 # Keep track of already downloaded videos
@@ -15,4 +15,8 @@
 # No overwrites
 --no-overwrites
 # 5 video limit by channel
---playlist-end 5
+--playlist-end 15
+# Mark the video as watched
+--mark-watched
+# Quiet mode
+--no-warnings
