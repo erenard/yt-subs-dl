@@ -3,7 +3,7 @@
 # Subscriptions
 --batch-file ./subs.0.txt
 # Output format
---output ~/storage/movies/%(uploader)s.%(title)s.%(ext)s
+--output ~/storage/movies/%(uploader)s/%(title)s.%(ext)s
 # Clean filenames
 --restrict-filenames
 # Keep track of already downloaded videos
