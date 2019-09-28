@@ -1,1 +1,2 @@
-youtube-dl --config-location ./config.0.txt
+youtube-dl --config-location ./config.best.txt
+youtube-dl --config-location ./config.audio.txt

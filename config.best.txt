@@ -1,0 +1,22 @@
+# https://github.com/ytdl-org/youtube-dl/blob/master/README.md
+
+# Subscriptions
+--batch-file ./subs.best.txt
+# Output format
+--output ~/storage/movies/%(uploader)s/%(title)s.%(ext)s
+# Clean filenames
+--restrict-filenames
+# Keep track of already downloaded videos
+--download-archive archive.txt
+# Quality
+--format best
+# Old limit
+--dateafter now-1month
+# Ignore errors
+--ignore-errors
+# 5 video limit by channel
+--playlist-end 15
+# Mark the video as watched
+--mark-watched
+# Quiet mode
+--no-warnings
