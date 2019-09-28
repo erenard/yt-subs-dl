@@ -12,7 +12,9 @@ def downloadUrl(url):
 		"download_archive": "archive.txt",
 		"restrictfilenames": True,
 		"format": "best",
-		"playlistend": 15
+		"playlistend": 15,
+		"outtmpl": "~/storage/movies/%(uploader)s/%(title)",
+		"daterange": youtube_dl.DateRange("now-1month")
 	}
 	with youtube_dl.YoutubeDL(ydl_opts) as ydl:
 		try:

@@ -12,8 +12,8 @@
 --format best
 # Old limit
 --dateafter now-1month
-# No overwrites
---no-overwrites
+# Ignore errors
+--ignore-errors
 # 5 video limit by channel
 --playlist-end 15
 # Mark the video as watched
