@@ -11,11 +11,11 @@
 # Quality
 --format best
 # Old limit
---dateafter now-1month
+--dateafter now-6month
 # Ignore errors
 --ignore-errors
 # 5 video limit by channel
---playlist-end 15
+--playlist-end 5
 # Mark the video as watched
 --mark-watched
 # Quiet mode

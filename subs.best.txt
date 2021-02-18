@@ -1,9 +1,9 @@
 # World of tanks
-https://www.youtube.com/channel/UCjgS6Uyg8ok4Jd_lH_MUKgg/videos
-https://www.youtube.com/user/taugrimtaugrim/videos
-https://www.youtube.com/channel/UCkE2qBttlsgzT8N0qjz1VzQ/videos
-https://www.youtube.com/user/osirish/videos
-https://www.youtube.com/user/TheFochYou/videos
+#https://www.youtube.com/channel/UCjgS6Uyg8ok4Jd_lH_MUKgg/videos
+#https://www.youtube.com/user/taugrimtaugrim/videos
+#https://www.youtube.com/channel/UCkE2qBttlsgzT8N0qjz1VzQ/videos
+#https://www.youtube.com/user/osirish/videos
+#https://www.youtube.com/user/TheFochYou/videos
 
 # Elite dangerous
 https://www.youtube.com/user/Isinona/videos
@@ -16,7 +16,10 @@ https://www.youtube.com/user/benzaieTV/videos
 https://www.youtube.com/user/JeanBaptisteShow/videos
 https://www.youtube.com/user/KrmaTV/videos
 https://www.youtube.com/user/XboxAhoy/videos
-
+# villebrequin
+https://youtube.com/c/VilebrequinAuto/videos
+# le reveilleur
+https://www.youtube.com/channel/UC1EacOJoqsKaYxaDomTCTEQ/videos
 # Scott Manley
 https://www.youtube.com/user/szyzyg/videos
 # Nerd slayer
@@ -26,7 +29,8 @@ https://www.youtube.com/playlist?list=PLbBZM9aUMsjEVZPCDMl-lXOx50rSBNFQC
 # Plainly Difficult
 https://www.youtube.com/channel/UCb0MyY46T9ZYOzDHkYnIoXg/videos
 # Real life lore
-https://www.youtube.com/channel/UCP5tjEmvPItGyLhmjdwP7Ww
+https://www.youtube.com/channel/UCP5tjEmvPItGyLhmjdwP7Ww/videos
+
 https://www.youtube.com/user/monsieurbidouille/videos
 https://www.youtube.com/user/ScienceEtonnante/videos
 https://www.youtube.com/user/Wendoverproductions/videos
@@ -55,7 +59,6 @@ https://www.youtube.com/channel/UCZBoqiPExCFTOxnh4I8BhtQ/videos
 https://www.youtube.com/user/GradeAUnderA/videos
 # heureka
 https://www.youtube.com/channel/UC7sXGI8p8PvKosLWagkK9wQ/videos
-https://www.youtube.com/user/INTHEPANDA/videos
 https://www.youtube.com/user/ioduremetallique/videos
 https://www.youtube.com/user/Kurzgesagt/videos
 https://www.youtube.com/user/lepsylab/videos
@@ -65,10 +68,11 @@ https://www.youtube.com/user/lindybeige/videos
 https://www.youtube.com/channel/UC1ZBQ-F-yktYD4m5AzM6pww/videos
 https://www.youtube.com/user/notabenemovies/videos
 # Primum Non Nocere
-https://www.youtube.com/channel/UC9BnGZLT4iPaJtDOXYwQuHQ/videos
+#https://www.youtube.com/channel/UC9BnGZLT4iPaJtDOXYwQuHQ/videos
 # Real Engineering
 https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg/videos
 # Stupid Economics
 https://www.youtube.com/channel/UCyJDHgrsUKuWLe05GvC2lng/videos
 # The RC Geek
 https://www.youtube.com/channel/UC5q8ss88jxwMlHf_A-XZGlA/videos
+https://www.youtube.com/user/INTHEPANDA/videos
