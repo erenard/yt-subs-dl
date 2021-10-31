@@ -24,6 +24,5 @@
 --write-sub
 # faster download
 --external-downloader aria2c
-# use 3 threads
---external-downloader-args '-x 3'
-
+# use 10 threads
+--external-downloader-args '-x 16 -c -l aria.log'
