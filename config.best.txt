@@ -15,8 +15,14 @@
 # Ignore errors
 --ignore-errors
 # 5 video limit by channel
---playlist-end 5
+--playlist-end 10
 # Mark the video as watched
 --mark-watched
 # Quiet mode
 --no-warnings
+# subtitles
+--write-sub
+# faster download
+--external-downloader aria2c
+# use 3 threads
+--external-downloader-args '-x 10 -m 2'

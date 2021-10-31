@@ -20,3 +20,10 @@
 --mark-watched
 # Quiet mode
 --no-warnings
+# subtitles
+--write-sub
+# faster download
+--external-downloader aria2c
+# use 3 threads
+--external-downloader-args '-x 3'
+
