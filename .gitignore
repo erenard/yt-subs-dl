@@ -1,3 +1,4 @@
 *.pyc
 __pycache__
-/aria.log
+aria.log
+archive.txt
