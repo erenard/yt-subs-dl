@@ -23,6 +23,6 @@
 # subtitles
 --write-sub
 # faster download
---external-downloader aria2c
+#--external-downloader aria2c
 # use 16 threads
---external-downloader-args '-x 16 -c -l aria.log'
+#--external-downloader-args '-x 16 -c -l aria.log'
