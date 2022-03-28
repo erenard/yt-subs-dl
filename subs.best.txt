@@ -21,11 +21,11 @@ https://www.youtube.com/user/JeanBaptisteShow/videos
 https://www.youtube.com/user/KrmaTV/videos
 https://www.youtube.com/user/XboxAhoy/videos
 # villebrequin
-https://youtube.com/c/VilebrequinAuto/videos
+# https://youtube.com/c/VilebrequinAuto/videos
 # le reveilleur
 https://www.youtube.com/channel/UC1EacOJoqsKaYxaDomTCTEQ/videos
 # Scott Manley
-https://www.youtube.com/user/szyzyg/videos
+# https://www.youtube.com/user/szyzyg/videos
 # Nerd slayer
 https://www.youtube.com/user/EXFORCEGAMER/videos
 # LGR Tech Tales
