@@ -29,11 +29,7 @@ https://www.youtube.com/channel/UC1EacOJoqsKaYxaDomTCTEQ/videos
 # Nerd slayer
 https://www.youtube.com/user/EXFORCEGAMER/videos
 # LGR Tech Tales
-https://www.youtube.com/playlist?list=PLbBZM9aUMsjEVZPCDMl-lXOx50rSBNFQC
-# Plainly Difficult
-https://www.youtube.com/channel/UCb0MyY46T9ZYOzDHkYnIoXg/videos
-# Real life lore
-https://www.youtube.com/channel/UCP5tjEmvPItGyLhmjdwP7Ww/videos
+#https://www.youtube.com/playlist?list=PLbBZM9aUMsjEVZPCDMl-lXOx50rSBNFQC
 
 https://www.youtube.com/user/monsieurbidouille/videos
 https://www.youtube.com/user/ScienceEtonnante/videos
@@ -67,10 +63,10 @@ https://www.youtube.com/user/ioduremetallique/videos
 https://www.youtube.com/user/Kurzgesagt/videos
 https://www.youtube.com/user/lepsylab/videos
 https://www.youtube.com/user/LeStagirite/videos
-https://www.youtube.com/user/lindybeige/videos
+#https://www.youtube.com/user/lindybeige/videos
 # mustard
 https://www.youtube.com/channel/UC1ZBQ-F-yktYD4m5AzM6pww/videos
-https://www.youtube.com/user/notabenemovies/videos
+#https://www.youtube.com/user/notabenemovies/videos
 # Primum Non Nocere
 #https://www.youtube.com/channel/UC9BnGZLT4iPaJtDOXYwQuHQ/videos
 # Real Engineering
@@ -80,3 +76,7 @@ https://www.youtube.com/channel/UCyJDHgrsUKuWLe05GvC2lng/videos
 # The RC Geek
 https://www.youtube.com/channel/UC5q8ss88jxwMlHf_A-XZGlA/videos
 https://www.youtube.com/user/INTHEPANDA/videos
+# Plainly Difficult
+https://www.youtube.com/channel/UCb0MyY46T9ZYOzDHkYnIoXg/videos
+# Real life lore
+https://www.youtube.com/channel/UCP5tjEmvPItGyLhmjdwP7Ww/videos
